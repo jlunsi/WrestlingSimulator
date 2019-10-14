@@ -1,0 +1,5 @@
+/home/chrx/Documents/WrestlingSimulator/WrestlingSimulator/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/chrx/Documents/WrestlingSimulator/WrestlingSimulator/bin/Debug/WrestlingSimulator.exe.mdb
+/home/chrx/Documents/WrestlingSimulator/WrestlingSimulator/bin/Debug/WrestlingSimulator.exe
+/home/chrx/Documents/WrestlingSimulator/WrestlingSimulator/obj/x86/Debug/WrestlingSimulator.exe
+/home/chrx/Documents/WrestlingSimulator/WrestlingSimulator/obj/x86/Debug/WrestlingSimulator.exe.mdb
